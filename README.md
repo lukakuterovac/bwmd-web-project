@@ -11,3 +11,5 @@ The other project can be found [here](https://github.com/lukakuterovac/orwma-mob
 # Resources
 
 List of websites used as resources for making this web project:
+
+- [The Noun Project](https://thenounproject.com)
