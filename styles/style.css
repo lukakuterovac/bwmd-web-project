@@ -9,6 +9,7 @@ body {
   --paragraph: #94a1b2;
   --tertiary: #2cb67d;
   --ferit: #054f79;
+  --stroke: #010101;
 
   margin: 0;
   padding: 0;
@@ -165,4 +166,48 @@ body {
 #about-image img {
   height: 350px;
   width: 350px;
+}
+
+#projects-content {
+  margin: 300px 10px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#projects-heading {
+  margin-bottom: 100px;
+  color: var(--headline);
+  font-size: 5em;
+}
+
+#projects-table table {
+  background-color: var(--background2);
+  border-collapse: separate;
+  border: solid var(--stroke) 1px;
+  border-radius: 30px;
+}
+
+#projects-table th {
+  color: var(--headline);
+  font-size: 2.5em;
+}
+
+#projects-table td {
+  color: var(--paragraph);
+  font-size: 2em;
+}
+
+#projects-table tr th,
+td {
+  text-align: center;
+  padding: 30px;
+}
+
+#projects-table img {
+  width: 40px;
+  height: auto;
 }
