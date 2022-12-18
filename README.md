@@ -12,5 +12,5 @@ The other project can be found [here](https://github.com/lukakuterovac/orwma-mob
 
 List of websites used as resources for making this web project:
 
-- [The Noun Project](https://thenounproject.com) - for icons
+- [The Noun Project](https://thenounproject.com) - for icons/images
 - [Happy Hues](https://www.happyhues.co) - for color palette and inspiration
