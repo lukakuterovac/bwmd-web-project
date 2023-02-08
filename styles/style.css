@@ -279,8 +279,15 @@ textarea:focus {
   border: solid var(--highlight) 1px;
 }
 
-#contact-form form input[type="submit"] {
+#contact-form button {
+  margin-top: 10px;
   background-color: var(--highlight);
   color: var(--headline);
   width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 2em;
+  text-align: center;
+  border: none;
+  align-self: flex-end;
 }
